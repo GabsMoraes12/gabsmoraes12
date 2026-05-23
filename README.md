@@ -6,7 +6,7 @@ Estrategista digital e acadêmico de **Ciência da Computação**. O que me move
 
 ### O que eu faço?
 * **Desenvolvimento Front-End:** Criação de interfaces modernas, landing pages e páginas focadas em alta conversão.
-* **Automação & Dados:** Desenvolvimento de scripts em Python para otimização de rotinas, tratamento de dados e relatórios corporativos.
+* **Automação & Dados:** Desenvolvimento de scripts em Python para otimização de rotinas, tratamento de dados, web scraping e relatórios corporativos.
 * **Multimídia & Design:** Criação de identidades visuais, tratamento de imagens e estratégias para mídias sociais.
 
 ---
@@ -19,6 +19,7 @@ Estrategista digital e acadêmico de **Ciência da Computação**. O que me move
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/Excel-107C41?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
+  <img src="https://img.shields.io/badge/BeautifulSoup-4A154B?style=for-the-badge&logo=generic&logoColor=white" alt="BeautifulSoup" />
 </p>
 
 **Design & Marketing:**
@@ -31,8 +32,9 @@ Estrategista digital e acadêmico de **Ciência da Computação**. O que me move
 ---
 
 ### Meus Projetos em Destaque
-* 🌐 [Landing Page Responsiva](https://github.com/gabsmoraes12/landing-page-portfolio) — Página de captura construída do zero com HTML e CSS focado em UI/UX.
-* 📈 [Automação de Relatórios](https://github.com/gabsmoraes12/automacao-relatorios-marketing) — Script em Python que processa dados de tráfego pago e gera planilhas com gráficos automáticos no Excel.
+* [Landing Page Responsiva](https://github.com/gabsmoraes12/landing-page-portfolio) — Página de captura construída do zero com HTML e CSS focado em UI/UX.
+* [Automação de Relatórios](https://github.com/gabsmoraes12/automacao-relatorios-marketing) — Script em Python que processa dados de tráfego pago e gera planilhas com gráficos automáticos no Excel.
+* [Bot Coletor de Tendências](https://github.com/gabsmoraes12/bot-coletor-tendencias) — Automação em Python utilizando Web Scraping para minerar tópicos relevantes da internet para inteligência de mercado.
 
 ---
 
@@ -44,4 +46,4 @@ Estrategista digital e acadêmico de **Ciência da Computação**. O que me move
   </a>
 </p>
 
-*Obrigado por visitar o meu universo técnico! 🚀*
+*Obrigado por visitar o meu universo técnico!*
