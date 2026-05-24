@@ -33,7 +33,7 @@ Estrategista digital e acadêmico de **Ciência da Computação**. O que me move
 
 ### Meus Projetos em Destaque
 * [Landing Page Responsiva](https://github.com/gabsmoraes12/landing-page-portfolio) — Página de captura construída do zero com HTML e CSS focado em UI/UX.
-* [Automação de Relatórios](https://github.com/gabsmoraes12/automacao-relatorios-marketing) — Script em Python que processa dados de tráfego pago e gera planilhas com gráficos automáticos no Excel.
+* [Automação de Relatórios](https://github.com/GabsMoraes12/marketing-data-automation) — Script em Python que processa dados de tráfego pago e gera planilhas com gráficos automáticos no Excel.
 * [Bot Coletor de Tendências](https://github.com/gabsmoraes12/bot-coletor-tendencias) — Automação em Python utilizando Web Scraping para minerar tópicos relevantes da internet para inteligência de mercado.
 * [Gerenciador de Leads CRUD](https://github.com/gabsmoraes12/gerenciador-leads-crud) — Sistema web completo em Python, Flask e SQLite com operações de banco de dados em tempo real.
 
